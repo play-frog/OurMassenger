@@ -1,0 +1,485 @@
+/* Desktop - 1 */
+.Desktop{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;}
+
+
+/* Topbar */
+.Topbar{
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+background: #2F2223;}
+
+
+/* Avatar */
+.Avatar{
+position: absolute;
+left: 5.14%;
+right: 90.69%;
+top: 1.95%;
+bottom: 92.19%;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;}
+
+
+/* Avatar Placeholder */
+.Avatar-Placeholder{
+box-sizing: border-box;
+
+position: absolute;
+left: 14.77%;
+right: 14.77%;
+top: 25%;
+bottom: 10.92%;
+
+background: #000000;
+border: 1px solid #F7F3FF;
+box-shadow: 0px 2px 1.9px rgba(0, 0, 0, 0.25);}
+
+
+/* Home */
+.Home{
+position: absolute;
+width: 99px;
+height: 25px;
+left: 204px;
+top: 37px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+
+color: #FFFFFF;
+
+text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);}
+
+
+/* Chats */
+.Chats{
+position: absolute;
+width: 112px;
+height: 25px;
+left: calc(50% - 112px/2 - 329px);
+top: 37px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.4);
+
+text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);}
+
+
+/* About us */
+.About-us{
+position: absolute;
+width: 166px;
+height: 25px;
+left: 480px;
+top: 37px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.4);
+
+text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);}
+
+
+/* picture 1 1 */
+.picture-1{
+position: absolute;
+width: 720px;
+height: 924px;
+left: 0px;
+top: 100px;
+
+background: url(picture 1);}
+
+
+/* right rectangle */
+.right-rectangle{
+position: absolute;
+width: 720px;
+height: 920px;
+left: 720px;
+top: 100px;
+
+background: #FFFFFF;}
+
+
+/* Sign up */
+.Sign-up{
+position: absolute;
+width: 267px;
+height: 49px;
+left: 866px;
+top: 339px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 49px;
+display: flex;
+align-items: flex-end;
+
+color: #000000;
+}
+
+
+/* Sign up for free to have access to our product */
+.Sign-up-for-free{
+position: absolute;
+width: 454px;
+height: 24px;
+left: 866px;
+top: 396px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+
+color: rgba(0, 0, 0, 0.7);}
+
+
+
+/* Email address: */
+.Email-address{
+position: absolute;
+width: 145px;
+height: 14px;
+left: 866px;
+top: 470px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(0, 0, 0, 0.7);}
+
+
+
+/* Password: */
+.Password{
+position: absolute;
+width: 101px;
+height: 14px;
+left: 866px;
+top: 644px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(0, 0, 0, 0.7);}
+
+
+
+/* Rectangle 8 */
+.Ractangle-8{
+box-sizing: border-box;
+
+position: absolute;
+width: 440px;
+height: 100px;
+right: 134px;
+bottom: 430px;
+
+border: 3px solid #2F2223;
+border-radius: 10px;}
+
+
+/* Rectangle 9 */
+.Ractangle-9{
+box-sizing: border-box;
+
+position: absolute;
+width: 440px;
+height: 100px;
+right: 134px;
+bottom: 256px;
+
+border: 3px solid #2F2223;
+border-radius: 10px;}
+
+
+/* Rectangle 10 */
+.Ractangle-10{
+position: absolute;
+width: 240px;
+height: 60px;
+right: 334px;
+bottom: 146px;
+
+background: #2F2223;
+border-radius: 10px;}
+
+
+/* Rectangle 11 */
+.Ractangle-11{
+position: absolute;
+width: 144px;
+height: 36px;
+right: 430px;
+bottom: 957px;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+/* Rectangle 12 */
+.Ractangle-12{
+position: absolute;
+width: 144px;
+height: 36px;
+right: 248px;
+bottom: 956px;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+border-radius: 10px;}
+
+
+/* register */
+.register{
+position: absolute;
+width: 77px;
+height: 14px;
+left: 947px;
+top: 841px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;}
+
+
+
+/* log in */
+.log-in{
+position: absolute;
+width: 56px;
+height: 14px;
+left: 910px;
+top: 42px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #2F2223;
+}
+
+
+/* sign up */
+.signup{
+position: absolute;
+width: 75px;
+height: 14px;
+left: 1082px;
+top: 42px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #2F2223;}
+
+
+
+/* Already have an account? Log in */
+.Already-have-account{
+position: absolute;
+width: 227px;
+height: 10px;
+left: 866px;
+top: 888px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #000000;}
+
+
+
+/* Break your chains */
+.Break-your-chains{
+position: absolute;
+width: 360px;
+height: 82px;
+left: 866px;
+top: 207px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #000000;
+}
+
+
+/* Eng/US */
+.Eng-US{
+position: absolute;
+width: 76px;
+height: 14px;
+left: 1230px;
+top: 42px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+text-decoration-line: underline;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;
+
+text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+}
+
+/* DESIGNSYNDROME-PAPERCUT-TEXTURE---TRANSPARENT44 1 */
+.Designsyndrome{
+position: absolute;
+width: 720px;
+height: 954px;
+left: 0px;
+top: 100px;
+
+background: url(DESIGNSYNDROME-PAPERCUT-TEXTURE---TRANSPARENT44);
+}
+
+/* download 1 */
+.download-1{
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1424px;
+top: 734px;
+}
+
+
+/* Vector */
+.Vector{
+position: absolute;
+left: 2.14%;
+right: 2.15%;
+top: 2.38%;
+bottom: 2.38%;
+
+background: #FFFFFF;
+}

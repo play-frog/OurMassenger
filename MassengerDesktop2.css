@@ -1,0 +1,242 @@
+/* Desktop - 2 */
+.Desktop-2{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #2F2223;
+}
+
+/* picture 1 1 */
+.picture1-1{
+position: absolute;
+visibility: hidden;
+width: 720px;
+height: 920px;
+left: 0px;
+top: 100px;
+
+background: url(picture 1.png);
+
+}
+/* Maurodesign.syndrome_cristal_fractal_liquid_shapes_in_the_void__9b35021b-16e2-459d-aeba-00a0ebeac318 1 */
+.Maurodesign{
+position: absolute;
+width: 1461px;
+height: 1352px;
+left: -10px;
+top: -88px;
+
+background: url(Maurodesign.syndrome_cristal_fractal_liquid_shapes_in_the_void__9b35021b-16e2-459d-aeba-00a0ebeac318.png);
+}
+
+/* right rectangle */
+.right-rectangle{
+position: absolute;
+width: 720px;
+height: 1024px;
+left: 720px;
+top: 0px;
+
+background: #FFFFFF;
+
+}
+/* Log in */
+.Log-in{
+position: absolute;
+width: 217px;
+height: 49px;
+left: 971px;
+top: 231px;
+
+font-family: 'Micra';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 49px;
+display: flex;
+align-items: flex-end;
+
+color: #000000;
+
+}
+
+/* log in to have access to our product */
+.Login-to-access{
+position: absolute;
+width: 356px;
+height: 24px;
+left: 902px;
+top: 290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+
+color: rgba(0, 0, 0, 0.7);
+}
+
+
+/* Email address: */
+.Email-address{
+position: absolute;
+width: 145px;
+height: 14px;
+left: 859px;
+top: 363px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(0, 0, 0, 0.7);
+}
+
+
+/* Password: */
+.Password{
+position: absolute;
+width: 101px;
+height: 14px;
+left: 859px;
+top: 537px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+
+/* Rectangle 9 */
+.Rectangle-9{
+box-sizing: border-box;
+
+position: absolute;
+width: 440px;
+height: 100px;
+right: 141px;
+bottom: 363px;
+
+border: 3px solid #2F2223;
+border-radius: 10px;
+}
+
+/* Rectangle 10 */
+.Rectangle-10{
+position: absolute;
+width: 240px;
+height: 60px;
+right: 241px;
+bottom: 253px;
+
+background: #2F2223;
+border-radius: 10px;
+}
+
+/* Log in */
+.Log-in-box{
+position: absolute;
+width: 62px;
+height: 14px;
+left: 1040px;
+top: 734px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;
+}
+
+
+/* Don’t have an account? Register */
+.Register{
+position: absolute;
+width: 228px;
+height: 10px;
+left: 959px;
+top: 781px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: flex-end;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #000000;
+}
+
+
+/* DESIGNSYNDROME-PAPERCUT-TEXTURE---TRANSPARENT44 1 */
+.DESIGNSYNDROME{
+position: absolute;
+visibility: hidden;
+width: 720px;
+height: 954px;
+left: 0px;
+top: 100px;
+
+background: url(DESIGNSYNDROME-PAPERCUT-TEXTURE---TRANSPARENT44.png);
+}
+
+/* Rectangle 8 */
+.Rectangle-8{
+box-sizing: border-box;
+
+position: absolute;
+width: 440px;
+height: 100px;
+right: 141px;
+bottom: 537px;
+
+border: 3px solid #2F2223;
+border-radius: 10px;
+}
